@@ -1,0 +1,6 @@
+[submodule "budget_app"]
+	path = API
+	url = https://github.com/lfarina18/budget_app.git
+[submodule "alkemy-fronted"]
+	path = frontend
+	url = https://github.com/lfarina18/alkemy-fronted.git
